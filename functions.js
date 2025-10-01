@@ -3,6 +3,10 @@ export default Operations = {
         return(a+b)
     },
   
+    Potencia(a, b)  {
+        return a ** b
+    },
+
     Subtr(a, b) {
         return a-b
     },
